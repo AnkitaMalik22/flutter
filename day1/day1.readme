@@ -56,10 +56,3 @@ Scaffold (
 );
 ```
 
-**Additional Notes:**
-
-* This list covers a few of the most frequently used widgets. Flutter offers a rich set of widgets for various functionalities.
-* Understanding the hierarchy is crucial for building well-structured and organized UIs.
-* Refer to the official Flutter documentation ([https://docs.flutter.dev/ui](https://docs.flutter.dev/ui)) for a comprehensive list and detailed explanations of widgets.
-
-By effectively utilizing these widgets and understanding their hierarchical relationships, you can construct visually appealing and interactive user interfaces for your Flutter applications.
